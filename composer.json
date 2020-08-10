@@ -4,6 +4,7 @@
     "license": "ETWS-Free-License-(EFL1)",
     "homepage": "",
     "description": "Currency Manager lets shop owner manage price display in an easy and convenient way: show custom currency symbol, change its position, change number of decimals and etc.",
+    "extra": { "package-xml": "package.xml" },
     "authors": [
         {
             "name": "Jurij",
